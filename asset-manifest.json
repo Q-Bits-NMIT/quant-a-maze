@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b0e8033b.css",
-    "main.js": "/static/js/main.e7f41b06.js",
+    "main.js": "/static/js/main.47e64c7a.js",
     "static/media/ani.png": "/static/media/ani.0adfa27ad37272b1766b.png",
     "static/media/Purnima.png": "/static/media/Purnima.45c5f35cece670fb0d8f.png",
     "static/media/interviewbuddy.png": "/static/media/interviewbuddy.315b3031878d40c21cd8.png",
@@ -15,6 +15,7 @@
     "static/media/abt-4.jpg": "/static/media/abt-4.92167d07f22dbe4cf0ac.jpg",
     "static/media/Rudy.jpg": "/static/media/Rudy.cc08831ac0f921a9aaca.jpg",
     "static/media/vishwajeet.jpg": "/static/media/vishwajeet.3e583eda39464055520a.jpg",
+    "static/media/karthiganesh.png": "/static/media/karthiganesh.e7a6621afb416f713169.png",
     "static/media/Arpit.jpg": "/static/media/Arpit.afe226e4a103b63dfbc1.jpg",
     "static/media/sangharsh.png": "/static/media/sangharsh.0213051d97d003f1cfa9.png",
     "static/media/shreya.jpg": "/static/media/shreya.d8c1c54313f6ed5538ba.jpg",
@@ -39,7 +40,6 @@
     "static/media/Dheemanth.jpg": "/static/media/Dheemanth.81fe6b2993561a601d32.jpg",
     "static/media/rachet.jpeg": "/static/media/rachet.e644761abf07792e0e03.jpeg",
     "static/media/food.jpg": "/static/media/food.0cc0b34d7c8109f09424.jpg",
-    "static/media/shadow.png": "/static/media/shadow.918a6a0f32032307b6ed.png",
     "static/media/Anant.jfif": "/static/media/Anant.c1c56ab0d0d6ced86c70.jfif",
     "static/media/alisha.jpg": "/static/media/alisha.65d5fdcb62c22f62b266.jpg",
     "static/media/sayantan.jfif": "/static/media/sayantan.f24285265569d8542eff.jfif",
@@ -71,10 +71,10 @@
     "index.html": "/index.html",
     "static/media/qnu-logo.svg": "/static/media/qnu-logo.15112aea26c9e410df6f55b1177c9a99.svg",
     "main.b0e8033b.css.map": "/static/css/main.b0e8033b.css.map",
-    "main.e7f41b06.js.map": "/static/js/main.e7f41b06.js.map"
+    "main.47e64c7a.js.map": "/static/js/main.47e64c7a.js.map"
   },
   "entrypoints": [
     "static/css/main.b0e8033b.css",
-    "static/js/main.e7f41b06.js"
+    "static/js/main.47e64c7a.js"
   ]
 }
