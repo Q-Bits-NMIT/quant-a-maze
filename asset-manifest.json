@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c30abe25.css",
-    "main.js": "/static/js/main.ed927136.js",
+    "main.css": "/static/css/main.1e658c98.css",
+    "main.js": "/static/js/main.7f9987b3.js",
     "static/media/ani.png": "/static/media/ani.0adfa27ad37272b1766b.png",
     "static/media/Purnima.png": "/static/media/Purnima.45c5f35cece670fb0d8f.png",
     "static/media/interviewbuddy.png": "/static/media/interviewbuddy.315b3031878d40c21cd8.png",
@@ -33,7 +33,6 @@
     "static/media/Anurag.jfif": "/static/media/Anurag.220bafe13bee5db7e072.jfif",
     "static/media/kalyan.jpg": "/static/media/kalyan.2b2b127a3442fd26b184.jpg",
     "static/media/nitish.jpg": "/static/media/nitish.59980f958d1cf7a1471d.jpg",
-    "static/media/bqp-rm-bg.png": "/static/media/bqp-rm-bg.7b82049c2055c33404b9.png",
     "static/media/lasya.jpg": "/static/media/lasya.873d377edc06a9ac2291.jpg",
     "static/media/somwya.jpeg": "/static/media/somwya.e3c3783fe7dfb5c3c1f9.jpeg",
     "static/media/IOT.jpg": "/static/media/IOT.a2d4c38456d9b3cd8035.jpg",
@@ -48,30 +47,35 @@
     "static/media/avinash.jpeg": "/static/media/avinash.b0f01a26afadd1e93185.jpeg",
     "static/media/BLKCHN.jpg": "/static/media/BLKCHN.7c83c699aa05d29f1e31.jpg",
     "static/media/sagar.jpg": "/static/media/sagar.c81f84678439f6f1b07c.jpg",
+    "static/media/venjay-removebg-preview.png": "/static/media/venjay-removebg-preview.fe85da0c8203e38331ef.png",
     "static/media/yash.jpg": "/static/media/yash.574ab0885b3f48b3ad38.jpg",
     "static/media/VR.jpg": "/static/media/VR.1464988d572d90be809d.jpg",
     "static/media/taskade.svg": "/static/media/taskade.fce5e1167c119a22a2e13e39a2fc5c9d.svg",
     "static/media/kartik.jpg": "/static/media/kartik.03beca4cbf2256af529b.jpg",
     "static/media/third.png": "/static/media/third.552c4133bcd7d5a51eb9.png",
     "static/media/second.png": "/static/media/second.c772acfee7b848c07f51.png",
+    "static/media/aops.png": "/static/media/aops.6a9d44203d5436400d3a.png",
     "static/media/viswambhari.jpg": "/static/media/viswambhari.2abf850bf27de3334fd2.jpg",
     "static/media/FM.jpg": "/static/media/FM.9cbe0d12392910ba65f2.jpg",
     "static/media/ML2.jpg": "/static/media/ML2.b70166eeb1d7ed74fd1f.jpg",
     "static/media/first.png": "/static/media/first.1346eef4bfe280ee1457.png",
     "static/media/shubhamprasad.jpg": "/static/media/shubhamprasad.54a7d2138923c3755357.jpg",
+    "static/media/bqp.png": "/static/media/bqp.72f0dc5875e26f73c42d.png",
     "static/media/OI.jpg": "/static/media/OI.8602551a8769e294d02a.jpg",
     "static/media/mark.jpg": "/static/media/mark.0463010112608ddf9b77.jpg",
     "static/media/w3q.svg": "/static/media/w3q.20938f7f42cc808cadedc02ed1e4c39e.svg",
     "static/media/quanta.png": "/static/media/quanta.0cb40f6f5a6148bcf1fc.png",
+    "static/media/axure.svg": "/static/media/axure.9021d1ff741eec4e7bff1d0330670bf5.svg",
     "static/media/interviewcake.svg": "/static/media/interviewcake.67eb48bca856caeaba3ca599e1dce5f5.svg",
     "static/media/balsamiq.svg": "/static/media/balsamiq.c2802cb8efeeff259858e1db5bda9190.svg",
     "static/media/HackBout.svg": "/static/media/HackBout.7f6c304e550be5a3290eeab8f0e15004.svg",
     "index.html": "/index.html",
-    "main.c30abe25.css.map": "/static/css/main.c30abe25.css.map",
-    "main.ed927136.js.map": "/static/js/main.ed927136.js.map"
+    "static/media/qnu-logo.svg": "/static/media/qnu-logo.15112aea26c9e410df6f55b1177c9a99.svg",
+    "main.1e658c98.css.map": "/static/css/main.1e658c98.css.map",
+    "main.7f9987b3.js.map": "/static/js/main.7f9987b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.c30abe25.css",
-    "static/js/main.ed927136.js"
+    "static/css/main.1e658c98.css",
+    "static/js/main.7f9987b3.js"
   ]
 }
