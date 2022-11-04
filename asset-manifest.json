@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b0e8033b.css",
-    "main.js": "/static/js/main.47e64c7a.js",
+    "main.js": "/static/js/main.1b8466a4.js",
     "static/media/ani.png": "/static/media/ani.0adfa27ad37272b1766b.png",
     "static/media/Purnima.png": "/static/media/Purnima.45c5f35cece670fb0d8f.png",
     "static/media/interviewbuddy.png": "/static/media/interviewbuddy.315b3031878d40c21cd8.png",
@@ -51,6 +51,7 @@
     "static/media/yash.jpg": "/static/media/yash.574ab0885b3f48b3ad38.jpg",
     "static/media/VR.jpg": "/static/media/VR.1464988d572d90be809d.jpg",
     "static/media/taskade.svg": "/static/media/taskade.fce5e1167c119a22a2e13e39a2fc5c9d.svg",
+    "static/media/echo3dhackbout3.png": "/static/media/echo3dhackbout3.d4c58a0129dab2a2f848.png",
     "static/media/kartik.jpg": "/static/media/kartik.03beca4cbf2256af529b.jpg",
     "static/media/third.png": "/static/media/third.552c4133bcd7d5a51eb9.png",
     "static/media/second.png": "/static/media/second.c772acfee7b848c07f51.png",
@@ -71,10 +72,10 @@
     "index.html": "/index.html",
     "static/media/qnu-logo.svg": "/static/media/qnu-logo.15112aea26c9e410df6f55b1177c9a99.svg",
     "main.b0e8033b.css.map": "/static/css/main.b0e8033b.css.map",
-    "main.47e64c7a.js.map": "/static/js/main.47e64c7a.js.map"
+    "main.1b8466a4.js.map": "/static/js/main.1b8466a4.js.map"
   },
   "entrypoints": [
     "static/css/main.b0e8033b.css",
-    "static/js/main.47e64c7a.js"
+    "static/js/main.1b8466a4.js"
   ]
 }
